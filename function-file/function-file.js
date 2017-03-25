@@ -9,9 +9,9 @@
 
   // The initialize function must be run each time a new page is loaded
   Office.initialize = function (reason) {
-    
-  };
 
+  };
+console.log("testing the ui-less function"); //io added
   // Add any ui-less function here
 
 })();
